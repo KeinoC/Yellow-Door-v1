@@ -1,0 +1,15 @@
+
+
+
+.land-nav {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    min-width: 90vw;
+    padding-bottom: vh;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 1vh
+}
